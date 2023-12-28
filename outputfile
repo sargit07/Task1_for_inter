@@ -1,0 +1,8 @@
+1. Build and Run the Containers:
+
+    Navigate to your project root directory (project in my case ).
+    Run docker-compose up -d to build and start the containers in detached mode.
+
+2. Access the Application:
+
+    Open your web browser and visit http://localhost:8080
